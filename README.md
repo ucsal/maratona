@@ -1,8 +1,8 @@
 ## Bemvindo ao Projeto Maratona de Programação UCSal
 
+Inscreva-se no grupo: [discord](https://discord.gg/CFptDmu)
+
 - Confirmado a UCSal como sede da seletiva reginal da Maratona de Programação da ACM.
-
-
 
 ### Calendário Competição
 
@@ -14,9 +14,12 @@ Final Brasileira: Foz do Iguaçu, 10 e 11 de novembro de 2017
 
 ### Sites para estudar
 
-- codepit.io
-- https://www.codingame.com
-- https://codility.com
-- https://www.hackerrank.com
+- https://www.codepit.io
+- https://www.urionlinejudge.com.br
+- http://br.spoj.com
+- http://www.spoj.com (inglês)
+- https://www.codingame.com (inglês)
+- https://codility.com (inglês)
+- https://www.hackerrank.com (inglês)
 
 ### Contatos
