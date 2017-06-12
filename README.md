@@ -12,6 +12,10 @@ Local: Universidade Católica do Salvador
 
 Final Brasileira: Foz do Iguaçu, 10 e 11 de novembro de 2017
 
+### Treinamento
+
+[Repositório da Prova ](https://github.com/ucsal/competicoes)
+
 ### Sites para estudar
 
 - https://www.codepit.io
@@ -23,3 +27,5 @@ Final Brasileira: Foz do Iguaçu, 10 e 11 de novembro de 2017
 - https://www.hackerrank.com (inglês)
 
 ### Contatos
+[Site UCSal](http://www.ucsal.br)   
+[Facebook Informática UCSal](https://www.facebook.com/infoucsal/)   
