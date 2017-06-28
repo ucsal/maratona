@@ -29,3 +29,6 @@ Final Brasileira: Foz do Iguaçu, 10 e 11 de novembro de 2017
 ### Contatos
 [Site UCSal](http://www.ucsal.br)   
 [Facebook Informática UCSal](https://www.facebook.com/infoucsal/)   
+
+
+Aula depois do são joão é para os fortes!!!
