@@ -10,7 +10,7 @@ Primeira Fase: 14 de Novembro de 2021
 Local: Online
 [Site Oficial](http://maratona.sbc.org.br/)   
 
-Final Brasileira: Gramado, 11 a 13 de Março de 2021
+Final Brasileira: Gramado, 11 e 13 de Março de 2021
 
 ### Treinamento
 
