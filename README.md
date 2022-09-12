@@ -6,11 +6,14 @@ Inscreva-se no grupo: [discord](https://discord.gg/NJ9xRDfWb3)
 
 ### Calendário Competição
 
-Primeira Fase: 14 de Novembro de 2021
+Fase zero: sábado 17set22 das 14:00 às 16:00.
 Local: Online
+
+Primeira Fase: 8 de outubro de 2022
+Local: Reginal Bahia - Lauro de Freiras
 [Site Oficial](http://maratona.sbc.org.br/)   
 
-Final Brasileira: Gramado, 11 e 13 de Março de 2021
+Final Brasileira: Campo Grande, 16 a 18 de março de 2023
 
 ### Treinamento
 
