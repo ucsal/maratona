@@ -6,24 +6,38 @@ Inscreva-se no grupo: [discord](https://discord.gg/NJ9xRDfWb3)
 
 ### Calendário Competição
 
-Fase zero: sábado 17/06/2023.
+###Fase zero: sábado 17/06/2023.
+
 Participação voluntária e vários prêmios aos participantes. A inscrição para a Fase Zero é gratuita e independente da inscrição para a Primeira Fase.
+
 Local: Online
+
 Taxa: Gratuíto.
+
 [Inscrição](https://forms.gle/Tdf8WxAcwaaoksg47)
 
-Primeira Fase: 02/09/2023
+
+
+
+###Primeira Fase: 02/09/2023
+
 Local: Sem definição ainda
+
 Inscrições: O tecnico deve inscrever no site do ICPC e ECOS da SBC
+
 Taxas: ver no site
+
 Prazo: 15/8/2023
 
-Final Brasileira: 19 a 21 de outubro de 2023
+###Final Brasileira: 19 a 21 de outubro de 2023
+
 Local: Chapecó - SC
+
+
 ### Treinamento
 
-[Repositório das Provas ](https://github.com/ucsal/competicoes)
-[Site Oficial](http://maratona.sbc.org.br/)   
+- [Repositório das Provas ](https://github.com/ucsal/competicoes)
+- [Site Oficial](http://maratona.sbc.org.br/)   
 
 ### Sites para estudar
 - https://neps.academy/dashboard
